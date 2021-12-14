@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paraghappygarg.
 - 👀 I’m interested in rust coding to avoid boilerplate code of C or C++.
 - 🌱 I’m currently learning blockchain technology.
-- 💞️ I’m looking to collaborate on cloud computing.
+- 💞️ I’m looking to collaborate on cloud computing, as I am new to Google Cloud, having earlier worked only on AWS or Azure.
 - 📫 How to reach me is easy.
 
 <!---
